@@ -10,7 +10,7 @@ public class ConexionDB {
     private static final String DRIVER = "com.mysql.cj.jdbc.Driver";
     private static final String BBDD = "jdbc:mysql://localhost/project_module3";
     private static final String USER = "root";
-    private static final String PASS = "Lordfelipe.21";
+    private static final String PASS = "dajsdkasjdkaas22e";
     private static Connection conex = null;
 
     public static Connection conexion() {
